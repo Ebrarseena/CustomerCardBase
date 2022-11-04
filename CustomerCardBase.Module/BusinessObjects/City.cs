@@ -61,4 +61,3 @@ namespace CustomerCardBase.Module.BusinessObjects
 		}
 	}
 }
-
